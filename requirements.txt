@@ -1,0 +1,4 @@
+fiona==*
+cartopy==*
+jupyter-core==*
+notebook==*
